@@ -1,0 +1,61 @@
+.about-section {
+    height: 100%;
+    background-color: #c26868;
+}
+
+.about-header-text{
+    text-align: center;
+    padding-top: 60px;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.3em;
+    font-weight: 700;
+    color: #fafafa;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding-bottom: 70px;
+}
+
+#code {
+    /*  margin-top:150px;*/
+      border-radius: 5px;
+      width:70%;
+      margin: 0 auto;
+      padding-top:15px;
+      font-size:30px;
+      background: #ccc;
+      font-family: 'Monaco', 'Courier New';
+      text-align: left;
+      font-size:13px;
+      color: #fafafa;
+    }
+    
+#console {
+    width:100%;
+    padding: 40px;
+    margin:0 auto;
+    background: #383737;
+}
+    
+span.answer {
+    color:#ccc;
+}
+    
+#about p {
+    text-align: center;
+    padding-top: 60px;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.3em;
+    font-weight: 700;
+    color: #fafafa;
+    font-size: 11px;
+    text-transform: uppercase;
+
+}
+.link-highlighter{
+    color: #386bac;
+    text-decoration: underline;
+}
+
+.about-bottom{
+    height: 120px;
+}

@@ -1,0 +1,154 @@
+.resume-section{
+    height: 100%;
+    background-color: #dddddd;
+}
+.resume-details-text {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.resume-header-text{
+    text-align: center;
+    padding-top: 60px;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.3em;
+    font-weight: 700;
+    color: #333;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding-bottom: 60px;
+}
+
+.resume-education-section {
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.3em;
+    font-weight: 700;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #CEC8C8;
+    font-size: 11px;
+    text-transform: uppercase;
+}
+
+.education-heading {
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 34px;
+    -webkit-font-smoothing: antialiased;
+    color: #333333;
+    font-family: 'Karla', sans-serif;
+}
+.education-logo{
+    width: 65px;
+    height: 65px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    float: left;
+    display: block;
+    margin-left: -95px;
+    margin-top: 5px;
+    background-color: #fff;
+    opacity: 0.8;
+    z-index: 0;
+    position: relative;
+}
+
+.education-logo-image{
+    max-height: 100%;
+    max-width: 100%;
+    width: 40px;
+    height: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.education2-logo-image{
+    max-height: 100%;
+    max-width: 100%;
+    width: 60px;
+    height: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.education3-logo-image{
+    max-height: 100%;
+    max-width: 100%;
+    width: 50px;
+    height: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.eduction-details {
+    padding-bottom: 80px;
+}
+.education-detail-left {
+    display: inline-block;
+}
+
+.education-detail-right {
+    display: inline-block;
+    float: right;
+    text-align: right;
+}
+.education-course{
+    padding-top: 20px;
+}
+.course-title{
+    font-size: 19px;
+    line-height: 34px;
+    -webkit-font-smoothing: antialiased;
+    color: #333333;
+    font-family: 'Karla', sans-serif;
+}
+
+.course-name{
+    font-size: 19px;
+    line-height: 34px;
+    -webkit-font-smoothing: antialiased;
+    color: #333333;
+    font-family: 'Karla', sans-serif;
+}
+
+.course-list{
+    list-style: circle;
+}
+
+.course-names-list {
+    padding-left: 40px;
+}
+
+.course-skills{
+    padding-top: 10px;
+}
+.skill {
+    border: 1px solid #50a9d1;
+    margin-right: 10px;
+    text-transform: uppercase;
+    font-weight: 500;
+    width: auto;
+    display: inline-block;
+    font-size: 11px;
+    line-height: 1.33333em;
+    padding: 7px 18px;
+    margin-top: 0.8em;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border-radius: 8px;
+}

@@ -1,0 +1,30 @@
+.footer-section {
+    background-color: #fafafa;
+}
+
+.inner-text-section{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+}
+
+.copyright-name{
+    /* text-align: left; */
+    color: #b1b1b1;
+    padding-top: 20px;
+    font-size: 12px;
+    line-height: 20px;
+    font-family: 'Karla', sans-serif;
+    display: inline-block;
+}
+
+.links-section{
+    /* text-align: left; */
+    color: #333;
+    padding-top: 20px;
+    font-size: 12px;
+    line-height: 20px;
+    font-family: 'Karla', sans-serif;
+    display: inline-block;
+    float: right;
+}

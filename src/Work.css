@@ -1,0 +1,63 @@
+.work-section {
+    background-color: #eeeeee;
+    height: 100%;
+}
+
+.work-header-text{
+    text-align: center;
+    padding-top: 60px;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.3em;
+    font-weight: 700;
+    color: #333;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding-bottom: 60px;
+}
+
+.work-main-container{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.row {
+    clear: both;
+  }
+  
+.portfolio-thumb {
+width: 45%;
+margin: 20px;
+background-color: white;
+display: inline-block;
+/*//height: 500px;*/
+}
+
+.portfolio-thumb img {
+width: 100%;
+}
+
+.portfolio-thumb p {
+font-size: 14px;
+padding: 25px;
+padding-top: 10px;
+text-align: left;
+line-height: 24px;
+}
+
+.portfolio-thumb a {
+text-decoration: underline;
+}
+
+.work-bottom {
+height: 20px;
+}
+
+@media screen and (max-width: 1016px) {
+    .portfolio-thumb {
+        width: 90%;
+        margin: 20px;
+        background-color: white;
+        display: inline-block;
+        /*//height: 500px;*/
+        }
+}
