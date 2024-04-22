@@ -7,22 +7,22 @@ export default function About() {
 			</p>
 			<div id="code">
 				<div id="console">
-					&gt; Harsimran.origin<br />
+					&gt; Harsimran.region<br />
 					<span class="answer">&nbsp;&nbsp;=&gt; "Toronto, ON, Canada"<br /><br /></span>
 					&gt; Harsimran.education<br />
 					<span class="answer">&nbsp;&nbsp;=&gt; "Masters of Applied Computing @ University of Windsor"<br />&nbsp;&nbsp;=&gt; "Bachelor of Engineering(Computer Science) @ Chitkara University"<br /><br /></span>
 					&gt; Harsimran.major<br />
 					<span class="answer">&nbsp;&nbsp;=&gt; "Computer Science"<br /><br /></span>
 					&gt; Harsimran.skills<br />
-					<span class="answer">&nbsp;&nbsp;=&gt; ["React.js", "Java", "Node.js", "SQL", "MongoDB", "PHP", "C/C++", "Python"]<br /><br /></span>
+					<span class="answer">&nbsp;&nbsp;=&gt; ["React", "Java", "Node", "SQL", "MongoDB", "PHP", "C/C++", "Python", "Cloud Infrastructure"]<br /><br /></span>
 					&gt; Harsimran.interests<br />
 					<span class="answer">&nbsp;&nbsp;=&gt; ["Code", "Problem Solving", "Design", "Reading"]<br /><br /></span>
 					&gt; Harsimran.workExperience<br />
 					<span class="answer">&nbsp;&nbsp;=&gt; Latest Work Experience<br />
-						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; company: "247 Software"<br />
-						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; role: "Full Stack Software Developer"<br />
-						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; startDate: "September 2019"<br />
-						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; endDate: "June 2022"<br />
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; company: "CGI"<br />
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; role: "Software Developer Co-op"<br />
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; startDate: "September 2023"<br />
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; endDate: "April 2024"<br />
 						<br /></span>
 					&gt; Harsimran.resume<br />
 					<span class="answer">&nbsp;&nbsp;=&gt; "<a target="_blank" href="/HarsimranSingh.pdf" className='link-highlighter'>HarsimranSingh.pdf</a>"<br /><br /></span>

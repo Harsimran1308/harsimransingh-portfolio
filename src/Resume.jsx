@@ -17,7 +17,7 @@ export default function Resume() {
                         <div className='education-heading education-degree'>Master of Applied Computing</div>
                     </div>
                     <div className='education-detail-right'>
-                        <div className='education-heading education-date'>Sept 2022 - Dec 2023</div>
+                        <div className='education-heading education-date'>Sept 2022 - April 2024</div>
                         <div className='education-heading education-uni-location'>Windsor, Canada</div>
                     </div>
                     <div className='education-course'>
@@ -91,6 +91,39 @@ export default function Resume() {
                 </div>
                 <div className='resume-education-section' style={{paddingTop:'40px'}}>
                     Work Experience
+                </div>
+                <div className='eduction-details' style={{paddingTop:'40px'}}>
+                    <div className='education-logo'><img src='/cgi-logo.png' className='education3-logo-image'></img></div>
+                    <div className='education-detail-left'>
+                        <div className='education-heading education-uni-name'>CGI</div>
+                        <div className='education-heading education-degree'>Software Developer Co-op</div>
+                    </div>
+                    <div className='education-detail-right'>
+                        <div className='education-heading education-date'>Sept 2023 - April 2024</div>
+                        <div className='education-heading education-uni-location'>Toronto, Canada</div>
+                    </div>
+                    <div className='education-course'>
+                        <div className='course-names-list'>
+                        <ul className='course-list'>
+                            <li className='course-name'>Worked on a project to establish a secure and scalable cloud infrastructure on Google Cloud Platform(GCP) for a banking application.</li>
+                            <li className='course-name'>Implemented Infrastructure as Code using tools such as Terraform to automate the provisioning and management of cloud resources, ensuring consistency and efficiency.</li>
+                            <li className='course-name'>Integrated monitoring and alerting systems to ensure proactive identification and resolution of potential issues, optimizing the overall system reliability.</li>
+                            <li className='course-name'>Managed the deployment and configuration of Kubernetes clusters on Google Kubernetes Engine (GKE), while also overseeing the containerization of applications and orchestrating their deployment, scaling, and management processes.</li> 
+                            <li className='course-name'>Designed and implemented CI/CD pipelines using tools such as Jenkins to automate the build, test, and deployment processes, resulting in significant time savings and increased deployment frequency.</li>
+                        </ul>
+                        </div>
+                    </div>
+                    <div className='course-skills'>
+                        <span className='skill'>Google Cloud Platform</span>
+                        <span className='skill'>Kubernetes</span>
+                        <span className='skill'>Docker</span>
+                        <span className='skill'>Jenkins</span>
+                        <span className='skill'>Terraform</span>
+                        <span className='skill'>Mongo DB</span>
+                        <span className='skill'>Monitoring</span>
+                        <span className='skill'>Helm</span>
+                        <span className='skill'>Python</span>
+                    </div>
                 </div>
                 <div className='eduction-details' style={{paddingTop:'40px'}}>
                     <div className='education-logo'><img src='/247-logo.png' className='education3-logo-image'></img></div>
