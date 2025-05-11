@@ -19,10 +19,9 @@ export default function About() {
 					<span class="answer">&nbsp;&nbsp;=&gt; ["Code", "Problem Solving", "Design", "Reading"]<br /><br /></span>
 					&gt; Harsimran.workExperience<br />
 					<span class="answer">&nbsp;&nbsp;=&gt; Latest Work Experience<br />
-						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; company: "CGI"<br />
-						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; role: "Software Developer Co-op"<br />
-						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; startDate: "September 2023"<br />
-						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; endDate: "April 2024"<br />
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; company: "TD Bank - CGI"<br />
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; role: "Software Developer"<br />
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; startDate: "November 2024"<br />
 						<br /></span>
 					&gt; Harsimran.resume<br />
 					<span class="answer">&nbsp;&nbsp;=&gt; "<a target="_blank" href="/HarsimranSingh.pdf" className='link-highlighter'>HarsimranSingh.pdf</a>"<br /><br /></span>

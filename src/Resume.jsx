@@ -93,9 +93,44 @@ export default function Resume() {
                     Work Experience
                 </div>
                 <div className='eduction-details' style={{paddingTop:'40px'}}>
+                    <div className='education-logo'><img src='/tdbank.png' className='education3-logo-image'></img></div>
+                    <div className='education-detail-left'>
+                        <div className='education-heading education-uni-name'>TD Bank - CGI</div>
+                        <div className='education-heading education-degree'>Software Developer</div>
+                    </div>
+                    <div className='education-detail-right'>
+                        <div className='education-heading education-date'>Nov 2024 - Present</div>
+                        <div className='education-heading education-uni-location'>Toronto, Canada</div>
+                    </div>
+                    <div className='education-course'>
+                        <div className='course-names-list'>
+                        <ul className='course-list'>
+                            <li className='course-name'>Administer and maintain IBM CMOD environments, ensuring high availability and system integrity.</li>
+                            <li className='course-name'>Develop and manage automation scripts (UNIX Shell, Python, Java) to streamline indexing, archiving, and retrieval processes.</li>
+                            <li className='course-name'>Implement and manage storage solutions, including HSM, TSM, and tape-based archival, for long-term document retention.</li>
+                            <li className='course-name'>Monitor system health using tools like Reveille, Splunk, and Dynatrace to proactively detect and resolve performance issues.</li> 
+                            <li className='course-name'>Ensure system security and compliance by managing LDAP, RBAC, encryption, and audit logging (SEC 17a-4, GDPR, HIPAA).</li>
+                            <li className='course-name'>Support integration of CMOD with enterprise platforms via APIs (e.g., IBM FileNet, OpenText, Pega).</li>
+                            <li className='course-name'>Handle incidents and changes following ITIL best practices to maintain service reliability and governance.</li>
+                        </ul>
+                        </div>
+                    </div>
+                    <div className='course-skills'>
+                        <span className='skill'>IBM CMOD</span>
+                        <span className='skill'>Infrastructure Maintenance and Optimization</span>
+                        <span className='skill'>SQL DB</span>
+                        <span className='skill'>Bash</span>
+                        <span className='skill'>Unix/Linux</span>
+                        <span className='skill'>Python</span>
+                        <span className='skill'>Performance Monitoring</span>
+                        <span className='skill'>API Integration</span>
+                        <span className='skill'>ITIL-based Incident and Change Management</span>
+                    </div>
+                </div>
+                <div className='eduction-details' style={{paddingTop:'40px'}}>
                     <div className='education-logo'><img src='/cgi-logo.png' className='education3-logo-image'></img></div>
                     <div className='education-detail-left'>
-                        <div className='education-heading education-uni-name'>CGI</div>
+                        <div className='education-heading education-uni-name'>National Bank of Canada - CGI</div>
                         <div className='education-heading education-degree'>Software Developer Co-op</div>
                     </div>
                     <div className='education-detail-right'>
@@ -105,7 +140,7 @@ export default function Resume() {
                     <div className='education-course'>
                         <div className='course-names-list'>
                         <ul className='course-list'>
-                            <li className='course-name'>Worked on a project to establish a secure and scalable cloud infrastructure on Google Cloud Platform(GCP) for a banking application.</li>
+                            <li className='course-name'>Worked on a project to establish a secure and scalable cloud infrastructure on Google Cloud Platform(GCP) for a investement banking application.</li>
                             <li className='course-name'>Implemented Infrastructure as Code using tools such as Terraform to automate the provisioning and management of cloud resources, ensuring consistency and efficiency.</li>
                             <li className='course-name'>Integrated monitoring and alerting systems to ensure proactive identification and resolution of potential issues, optimizing the overall system reliability.</li>
                             <li className='course-name'>Managed the deployment and configuration of Kubernetes clusters on Google Kubernetes Engine (GKE), while also overseeing the containerization of applications and orchestrating their deployment, scaling, and management processes.</li> 
